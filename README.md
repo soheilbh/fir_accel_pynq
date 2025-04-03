@@ -6,7 +6,8 @@ It compares the performance of a software-based FIR filter with a custom hardwar
 ## 📚 Based On
 
 This notebook is based on the tutorial:  
-[*How to accelerate a function with PYNQ*](https://www.youtube.com/watch?v=PwG037LuNvA) by **Jeff Johnson** of **FPGA Developer**.
+[*How to accelerate a function with PYNQ*](https://www.youtube.com/watch?v=PwG037LuNvA)  
+Published on the **FPGA Developer** YouTube channel.
 
 ## ✨ Updates in This Version
 
@@ -39,5 +40,5 @@ Make sure the `.bit` and `.hwh` files are in the same folder as the notebook and
 
 ## 🤝 Credits
 
-Tutorial by Jeff Johnson — [FPGA Developer](https://www.youtube.com/c/FPGAdeveloper)  
+Tutorial by  [FPGA Developer](https://www.youtube.com/c/FPGAdeveloper)  
 Code structure and cleanup supported by **ChatGPT-4**
