@@ -20,14 +20,14 @@ This notebook is based on the tutorial:
 - PYNQ-Z2 board (Zynq-7020)
 - PYNQ image 2.7 or later
 - Vivado project to generate:
-  - `fir_accel.bit`
-  - `fir_accel.hwh`
+  - `fir_accel2.bit`
+  - `fir_accel2.hwh`
 
 ## 📁 Files
 
 - `FIR_accel.ipynb`: Main Jupyter notebook (run on the PYNQ board).
-- `fir_accel.bit`: Bitstream file for FIR overlay.
-- `fir_accel.hwh`: Hardware metadata file for overlay.
+- `fir_accel2.bit`: Bitstream file for FIR overlay.
+- `fir_accel2.hwh`: Hardware metadata file for overlay.
 
 ## 🚀 How to Use
 
